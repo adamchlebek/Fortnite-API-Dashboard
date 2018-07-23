@@ -20,6 +20,5 @@ Public Class Form1
 
         Newtonsoft.Json.JsonConvert.PopulateObject(fullJson, smokeyfish)
 
-        TextBox1.Text = smokeyfish.
     End Sub
 End Class
